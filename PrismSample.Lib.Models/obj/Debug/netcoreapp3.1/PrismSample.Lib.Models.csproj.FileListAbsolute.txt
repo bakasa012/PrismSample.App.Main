@@ -1,0 +1,10 @@
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Models\bin\Debug\netcoreapp3.1\PrismSample.Lib.Models.deps.json
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Models\bin\Debug\netcoreapp3.1\PrismSample.Lib.Models.dll
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Models\bin\Debug\netcoreapp3.1\PrismSample.Lib.Models.pdb
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Models\obj\Debug\netcoreapp3.1\PrismSample.Lib.Models.csproj.AssemblyReference.cache
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Models\obj\Debug\netcoreapp3.1\PrismSample.Lib.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Models\obj\Debug\netcoreapp3.1\PrismSample.Lib.Models.AssemblyInfoInputs.cache
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Models\obj\Debug\netcoreapp3.1\PrismSample.Lib.Models.AssemblyInfo.cs
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Models\obj\Debug\netcoreapp3.1\PrismSample.Lib.Models.csproj.CoreCompileInputs.cache
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Models\obj\Debug\netcoreapp3.1\PrismSample.Lib.Models.dll
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Models\obj\Debug\netcoreapp3.1\PrismSample.Lib.Models.pdb

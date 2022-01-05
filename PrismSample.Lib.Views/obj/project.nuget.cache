@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1vT0dJyR5lgpMQAJaic3Zuf/39QpL4nYEjHGZVWZSYNPj2LdDvghaXRMXHQIntVblutiwbKxEjJ87XvaC5G3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lieu.hong.thai\\Documents\\sourece tree\\MVVM\\PrismSample2\\PrismSample.App.Main\\PrismSample.Lib.Views\\PrismSample.Lib.Views.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\prism.core\\7.2.0.1367\\prism.core.7.2.0.1367.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\prism.unity\\7.2.0.1367\\prism.unity.7.2.0.1367.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\prism.wpf\\7.2.0.1367\\prism.wpf.7.2.0.1367.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\unity.abstractions\\4.1.3\\unity.abstractions.4.1.3.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\unity.container\\5.10.3\\unity.container.5.10.3.nupkg.sha512"
+  ],
+  "logs": []
+}
