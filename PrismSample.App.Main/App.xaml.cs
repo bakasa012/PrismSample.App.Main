@@ -30,6 +30,9 @@ namespace PrismSample.App.Main
             ViewModelLocationProvider.Register<MainWindow, MainWindowViewModel>();
             ViewModelLocationProvider.Register<OperandView, OpearndViewModel>();
             ViewModelLocationProvider.Register<Answer, AnswerViewModel>();
+
+            ViewModelLocationProvider.Register<CloseAppView, CloseAppViewModel>();
+            ViewModelLocationProvider.Register<StartDateView, StartDateViewModel>();
         }
 
     }

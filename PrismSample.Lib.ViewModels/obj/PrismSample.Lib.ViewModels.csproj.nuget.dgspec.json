@@ -186,6 +186,10 @@
             "Prism.Unity": {
               "target": "Package",
               "version": "[7.2.0.1367, )"
+            },
+            "WPFCustomMessageBox": {
+              "target": "Package",
+              "version": "[1.0.7, )"
             }
           },
           "imports": [

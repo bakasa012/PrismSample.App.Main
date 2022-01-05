@@ -36,3 +36,4 @@ namespace PrismSample.Lib.ViewModels
         }
     }
 }
+    

@@ -18,8 +18,13 @@ namespace PrismSample.Lib.Views
 
         public void Onloaded(object sender, RoutedEventArgs e)
         {
-            regionManager.AddToRegion("OperandRegion", containerExtension.Resolve<OperandView>());
-            regionManager.AddToRegion("AnswerRegion", containerExtension.Resolve<Answer>());
+            //regionManager.AddToRegion("OperandRegion", containerExtension.Resolve<OperandView>());
+            //regionManager.AddToRegion("AnswerRegion", containerExtension.Resolve<Answer>());
+            regionManager.AddToRegion("CloseAppRegion", containerExtension.Resolve<CloseAppView>());
+            regionManager.AddToRegion("StartDateRegion", containerExtension.Resolve<StartDateView>());
+            regionManager.AddToRegion("LinkUrlUploadRegion", containerExtension.Resolve<LinkUrlUpload>());
+            regionManager.AddToRegion("LinkUrlSaveFileRegion", containerExtension.Resolve<LinkUrlSaveFile>());
+            regionManager.AddToRegion("ConvertExcelFileRegion", containerExtension.Resolve<ConvertExcelFileView>());
         }
 
     }

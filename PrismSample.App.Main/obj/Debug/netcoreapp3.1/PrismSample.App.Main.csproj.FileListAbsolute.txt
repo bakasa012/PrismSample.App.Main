@@ -30,3 +30,4 @@ C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.App.Main\obj\Debug\netcoreapp3.1\PrismSample.App.Main.dll
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.App.Main\obj\Debug\netcoreapp3.1\PrismSample.App.Main.pdb
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.App.Main\obj\Debug\netcoreapp3.1\PrismSample.App.Main.genruntimeconfig.cache
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.App.Main\bin\Debug\netcoreapp3.1\WPFCustomMessageBox.dll

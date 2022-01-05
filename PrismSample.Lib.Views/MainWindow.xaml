@@ -7,15 +7,35 @@
         mc:Ignorable="d"
         xmlns:prism="http://prismlibrary.com/"
         prism:ViewModelLocator.AutoWireViewModel="True"
+        WindowStartupLocation="CenterScreen"
         Title="MainWindow2" Height="450" Width="800">
     <Grid Loaded="Onloaded">
-        <Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <!--<Grid.ColumnDefinitions>
             <ColumnDefinition/>
             <ColumnDefinition/>
-        </Grid.ColumnDefinitions>
-        <ContentControl Grid.Column="0" Margin="20"
-            prism:RegionManager.RegionName="OperandRegion"/>
-        <ContentControl Grid.Column="1" Margin="20"
-            prism:RegionManager.RegionName="AnswerRegion"/>
+        </Grid.ColumnDefinitions>-->
+        <ContentControl Grid.Row="0" Margin="20"
+            prism:RegionManager.RegionName="CloseAppRegion"/>
+        <ContentControl Grid.Row="1" Margin="20"
+            prism:RegionManager.RegionName="StartDateRegion"
+            />
+        <ContentControl Grid.Row="2" Margin="20"
+          prism:RegionManager.RegionName="LinkUrlUploadRegion"
+            />
+        <ContentControl Grid.Row="3" Margin="20"
+          prism:RegionManager.RegionName="LinkUrlSaveFileRegion"
+            />
+        <ContentControl Grid.Row="4" Margin="20"
+          prism:RegionManager.RegionName="ConvertExcelFileRegion"
+            /> 
+        <ContentControl Margin="20"
+          />
     </Grid>
 </Window>
