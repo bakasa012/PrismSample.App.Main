@@ -2,7 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+	  <UseWindowsForms>true</UseWindowsForms>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="NPOI" Version="2.5.5" />
+    <PackageReference Include="ReactiveProperty" Version="5.5.1" />
+    <PackageReference Include="WPFCustomMessageBox" Version="1.0.7" />
+  </ItemGroup>
 
 </Project>

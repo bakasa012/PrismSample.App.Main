@@ -18,8 +18,8 @@
                      SelectedDateFormat="Long"
                      my:DatePickerCalendar.IsMonthYear="True"
                      my:DatePickerDateFormat.DateFormat="yyyy/MM"
-                     SelectedDate="{Binding DateStartSelected.Value, Mode=TwoWay}"
-                     DisplayDate="{Binding DateTime.Now}"
+                     SelectedDate="{Binding DateStartSelected.Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
                      />
+        <TextBlock Text="{Binding TextBlock1.Value}"  HorizontalAlignment="Left" Margin="300,0,0,0" Grid.Column="1" VerticalAlignment="Center" x:Name="txtBlock"/>
     </Grid>
 </UserControl>

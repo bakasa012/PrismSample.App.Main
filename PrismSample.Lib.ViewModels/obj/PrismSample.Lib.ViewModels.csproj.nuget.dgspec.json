@@ -43,6 +43,24 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "ReactiveProperty": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "WPFCustomMessageBox": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +75,7 @@
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
-            "Microsoft.WindowsDesktop.App.WPF": {
+            "Microsoft.WindowsDesktop.App": {
               "privateAssets": "none"
             }
           },

@@ -15,7 +15,7 @@ namespace PrismSample.App.Main
     {
         protected override Window CreateShell()
         {
-            return Container.Resolve<MainWindow>();
+            return Container.Resolve<ConvertExcelFileWindow>();
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
@@ -33,6 +33,11 @@ namespace PrismSample.App.Main
 
             ViewModelLocationProvider.Register<CloseAppView, CloseAppViewModel>();
             ViewModelLocationProvider.Register<StartDateView, StartDateViewModel>();
+            ViewModelLocationProvider.Register<LinkUrlUpload, LinkUrlUploadViewModel>();
+            ViewModelLocationProvider.Register<LinkUrlSaveFile, LinkUrlSaveFileViewModel>();
+            ViewModelLocationProvider.Register<ConvertExcelFileView, ConvertExcelFileViewModel>();
+            ViewModelLocationProvider.Register<ConvertExcelFileWindow, ConvertExcelFileWindowViewModel>();
+
         }
 
     }

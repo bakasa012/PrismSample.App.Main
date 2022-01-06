@@ -28,3 +28,5 @@ C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Views\obj\Debug\netcoreapp3.1\LinkUrlSaveFile.baml
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Views\obj\Debug\netcoreapp3.1\ConvertExcelFileView.g.cs
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Views\obj\Debug\netcoreapp3.1\ConvertExcelFileView.baml
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Views\obj\Debug\netcoreapp3.1\ConvertExcelFileWindow.g.cs
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.Views\obj\Debug\netcoreapp3.1\ConvertExcelFileWindow.baml

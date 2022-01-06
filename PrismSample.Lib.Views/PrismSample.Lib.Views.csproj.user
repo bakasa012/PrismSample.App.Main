@@ -11,6 +11,9 @@
     <Compile Update="ConvertExcelFileView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="ConvertExcelFileWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="LinkUrlSaveFile.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -35,6 +38,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="ConvertExcelFileView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ConvertExcelFileWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="LinkUrlSaveFile.xaml">

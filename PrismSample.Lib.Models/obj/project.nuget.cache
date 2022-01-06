@@ -1,8 +1,40 @@
 {
   "version": 2,
-  "dgSpecHash": "YwLGJfHunGQ8z0WlJHMQUHk3WrBS+8FNZh/Vrk3O3l0/l+Tseeg8grI8qkQNUbUOQB+qJ1Qli2FfFnVkPcpm/Q==",
+  "dgSpecHash": "dhjBMY7CJjtxVs3T2wE5u8mbHUAfzFz2UsWwjeU82mRmAted8ZKnxZ6raaUO+mzwIHT594ZCy8N94Ky+knCw1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\lieu.hong.thai\\Documents\\sourece tree\\MVVM\\PrismSample2\\PrismSample.App.Main\\PrismSample.Lib.Models\\PrismSample.Lib.Models.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\npoi\\2.5.5\\npoi.2.5.5.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\reactiveproperty\\5.5.1\\reactiveproperty.5.5.1.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\sharpziplib\\1.3.2\\sharpziplib.1.3.2.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.reactive\\4.1.5\\system.reactive.4.1.5.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\wpfcustommessagebox\\1.0.7\\wpfcustommessagebox.1.0.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WPFCustomMessageBox 1.0.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "WPFCustomMessageBox",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

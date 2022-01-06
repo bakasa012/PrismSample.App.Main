@@ -7,14 +7,17 @@
              xmlns:prism="http://prismlibrary.com/"
              prism:ViewModelLocator.AutoWireViewModel="True"
              mc:Ignorable="d" 
+             xmlns:behaviors="using:Microsoft.Toolkit.Uwp.UI.Animations.Behaviors"
+             xmlns:Core="using:Microsoft.Xaml.Interactions.Core"
+xmlns:Interactivity="using:Microsoft.Xaml.Interactivity"
             d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*"/>
             <ColumnDefinition Width="3*"/>
         </Grid.ColumnDefinitions>
-        <Label Content="変換フォルダ" HorizontalAlignment="Left" Margin="50,0,0,0" Grid.Column="0" VerticalAlignment="Center"/>
-        <Label Name="lbLinkUrlUpload" Content="C:\業務課プログラム\自己調達許諾シール給付申請書システム\解凍後データ保存場所\" HorizontalAlignment="Left" Grid.Column="1" VerticalAlignment="Center" Height="26" Grid.ColumnSpan="2">
+        <Label Content="{Binding LabelLinkUrlUpload.Value}" HorizontalAlignment="Left" Margin="50,0,0,0" Grid.Column="0" VerticalAlignment="Center"/>
+        <Label Name="lbLinkUrlUpload"  Content="{Binding LinkUrlUpload.Value}" HorizontalAlignment="Left" Grid.Column="1" VerticalAlignment="Center" Height="26" Grid.ColumnSpan="2">
             <Label.Style>
                 <Style TargetType="Label">
                     <Setter Property="Foreground" Value="Black" />
@@ -26,5 +29,6 @@
                 </Style>
             </Label.Style>
         </Label>
+        
     </Grid>
 </UserControl>

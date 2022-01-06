@@ -22,5 +22,10 @@ namespace PrismSample.Lib.Views
         {
             InitializeComponent();
         }
+        public string startDate;
+        public string getStartDate()
+        {
+            return txtBlock.Text;
+        }
     }
 }

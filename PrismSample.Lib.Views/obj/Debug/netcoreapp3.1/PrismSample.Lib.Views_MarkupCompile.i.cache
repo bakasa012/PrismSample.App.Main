@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 
-8-1970346995
+91807681510
 
-14-603363917
+161886920812
 2072005830237
-Answer.xaml;CloseAppView.xaml;ConvertExcelFileView.xaml;LinkUrlSaveFile.xaml;LinkUrlUpload.xaml;MainWindow.xaml;OperandView.xaml;StartDateView.xaml;
+Answer.xaml;CloseAppView.xaml;ConvertExcelFileView.xaml;ConvertExcelFileWindow.xaml;LinkUrlSaveFile.xaml;LinkUrlUpload.xaml;MainWindow.xaml;OperandView.xaml;StartDateView.xaml;
 
-True
+False
 
