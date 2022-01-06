@@ -19,6 +19,9 @@ namespace PrismSample.Lib.Views
     {
         public ConvertExcelFileWindow()
         {
+            Style dpStyle = new Style(typeof(DatePicker));
+            dpStyle.Setters.Add(new Setter(DatePicker.LanguageProperty, System.Windows.Markup.XmlLanguage.GetLanguage("zh-cn")));
+            this.Resources.Add(typeof(DatePicker), dpStyle);
             InitializeComponent();
         }
     }

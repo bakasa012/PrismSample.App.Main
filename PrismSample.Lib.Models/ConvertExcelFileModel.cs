@@ -44,7 +44,7 @@ namespace PrismSample.Lib.Models
                                 dataHeaderExcels, dataBodyExcelFiles);
                         }
                     }
-                    WPFCustomMessageBox.CustomMessageBox.Show(countFile.ToString() + "つのファイルが正常に変換されました", "Information!");
+                    WPFCustomMessageBox.CustomMessageBox.Show(countFile.ToString() + "つのファイルが正常に変換されました");
                 }
             }
         }

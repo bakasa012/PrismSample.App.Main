@@ -2,60 +2,12 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="Answer.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="CloseAppView.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="ConvertExcelFileView.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="ConvertExcelFileWindow.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="LinkUrlSaveFile.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="LinkUrlUpload.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="MainWindow.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="OperandView.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="StartDateView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Answer.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="CloseAppView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="ConvertExcelFileView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
     <Page Update="ConvertExcelFileWindow.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="LinkUrlSaveFile.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="LinkUrlUpload.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="MainWindow.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="OperandView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="StartDateView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

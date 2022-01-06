@@ -43,11 +43,11 @@ namespace PrismSample.Lib.ViewModels
             MouseLeftButtonUpLinkUrlUpload = new ReactiveCommand().WithSubscribe(_ =>DialogOpen.Instance.OpentFolderDialog(LinkUrlUpload));
             MouseLeftButtonUpLinkUrlSaveFile = new ReactiveCommand().WithSubscribe(_ => DialogOpen.Instance.OpentFolderDialog(LinkUrlSaveFile));
             CloseAppCommand = new ReactiveCommand().WithSubscribe(_ => CloseApp());
-            ConvertExcelFileCommand = new ReactiveCommand().WithSubscribe(_ => ConvertExcelFileModel.Instance.ProcessConvertExcelFiles(LinkUrlUpload.Value,LinkUrlUpload.Value,DateStartSelected.Value.Month.ToString(), dataBindingCompanyCodes));
+            ConvertExcelFileCommand = new ReactiveCommand().WithSubscribe(_ => ConvertExcelFileModel.Instance.ProcessConvertExcelFiles(LinkUrlUpload.Value,LinkUrlSaveFile.Value,DateStartSelected.Value.Month.ToString(), dataBindingCompanyCodes));
         }
         void show()
         {
-            MessageBox.Show("sadadasdads", DateStartSelected.Value.ToString());
+            MessageBox.Show("sadadasdads", LinkUrlSaveFile.Value);
         }
         private void CloseApp()
         {

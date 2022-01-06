@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 
-91807681510
+1-516938791
 
-161886920812
+5-398164242
 2072005830237
-Answer.xaml;CloseAppView.xaml;ConvertExcelFileView.xaml;ConvertExcelFileWindow.xaml;LinkUrlSaveFile.xaml;LinkUrlUpload.xaml;MainWindow.xaml;OperandView.xaml;StartDateView.xaml;
+ConvertExcelFileWindow.xaml;
 
 False
 

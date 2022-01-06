@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iK2ok5ELpNjkAqPtr/KEj4fZKA8n8VhyQiqroQBxUyV3JRqwlifL42n9UBZIcxxjFtC2oR3DpfTsI/FpkY5sLQ==",
+  "dgSpecHash": "FReiHFWCyosvn0kCosSoCsDyVkPLX7b+tuGApRfz+x7XZ/ks4SA4Qdy27B96/BHMh8O5b2HaivgS1cDsqBj5fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lieu.hong.thai\\Documents\\sourece tree\\MVVM\\PrismSample2\\PrismSample.App.Main\\PrismSample.App.Main\\PrismSample.App.Main.csproj",
+  "projectFilePath": "C:\\Users\\lieu.hong.thai\\Documents\\sourece tree\\MVVM\\PrismSample2\\PrismSample.App.Main\\PrismSample.App.Main\\ConvertExcelFile.App.Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
     "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

@@ -1390,9 +1390,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lieu.hong.thai\\Documents\\sourece tree\\MVVM\\PrismSample2\\PrismSample.App.Main\\PrismSample.App.Main\\PrismSample.App.Main.csproj",
-      "projectName": "PrismSample.App.Main",
-      "projectPath": "C:\\Users\\lieu.hong.thai\\Documents\\sourece tree\\MVVM\\PrismSample2\\PrismSample.App.Main\\PrismSample.App.Main\\PrismSample.App.Main.csproj",
+      "projectUniqueName": "C:\\Users\\lieu.hong.thai\\Documents\\sourece tree\\MVVM\\PrismSample2\\PrismSample.App.Main\\PrismSample.App.Main\\ConvertExcelFile.App.Main.csproj",
+      "projectName": "ConvertExcelFile.App.Main",
+      "projectPath": "C:\\Users\\lieu.hong.thai\\Documents\\sourece tree\\MVVM\\PrismSample2\\PrismSample.App.Main\\PrismSample.App.Main\\ConvertExcelFile.App.Main.csproj",
       "packagesPath": "C:\\Users\\lieu.hong.thai\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lieu.hong.thai\\Documents\\sourece tree\\MVVM\\PrismSample2\\PrismSample.App.Main\\PrismSample.App.Main\\obj\\",
       "projectStyle": "PackageReference",

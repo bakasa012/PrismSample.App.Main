@@ -1,9 +1,7 @@
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\bin\Debug\netcoreapp3.1\PrismSample.Lib.ViewModels.deps.json
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\bin\Debug\netcoreapp3.1\PrismSample.Lib.ViewModels.dll
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\bin\Debug\netcoreapp3.1\PrismSample.Lib.ViewModels.pdb
-C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\bin\Debug\netcoreapp3.1\PrismSample.Lib.Models.dll
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\bin\Debug\netcoreapp3.1\PrismSample.Lib.Views.dll
-C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\bin\Debug\netcoreapp3.1\PrismSample.Lib.Models.pdb
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\bin\Debug\netcoreapp3.1\PrismSample.Lib.Views.pdb
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\obj\Debug\netcoreapp3.1\PrismSample.Lib.ViewModels.csproj.AssemblyReference.cache
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\obj\Debug\netcoreapp3.1\PrismSample.Lib.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +11,5 @@ C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\obj\Debug\netcoreapp3.1\PrismSample.Lib.ViewModels.csproj.CopyComplete
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\obj\Debug\netcoreapp3.1\PrismSample.Lib.ViewModels.dll
 C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\obj\Debug\netcoreapp3.1\PrismSample.Lib.ViewModels.pdb
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\bin\Debug\netcoreapp3.1\PrismSample.Lib.Models.dll
+C:\Users\lieu.hong.thai\Documents\sourece tree\MVVM\PrismSample2\PrismSample.App.Main\PrismSample.Lib.ViewModels\bin\Debug\netcoreapp3.1\PrismSample.Lib.Models.pdb
